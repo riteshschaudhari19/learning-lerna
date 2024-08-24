@@ -1,6 +1,6 @@
 {
   "name": "prospect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "general package",
   "keywords": [
     "xyz"
@@ -27,6 +27,6 @@
     "url": "https://github.com/riteshschaudhari19/learning-lerna/issues"
   },
   "dependencies": {
-    "formify":"file:../formify"
+    "formify": "file:../formify"
   }
 }
